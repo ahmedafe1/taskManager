@@ -60,7 +60,7 @@ A full-stack task management application built with React, TypeScript, and ASP.N
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/ahmedafe1/taskManager.git
 ```
 
 2. Set up the backend:
